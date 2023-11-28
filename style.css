@@ -76,17 +76,6 @@ body{
 	transform: translateY(5px);
 	transition: 0.8s;
 }
-.header-menu__youtube {}
-
-.header-menu__vk {}
-
-.header-menu__facebook {}
-
-.header-menu__twiter {}
-
-.header-menu__twitch {}
-
-.header-menu__instagramm {}
 
 .header-description {
 	display: flex;
@@ -117,8 +106,6 @@ body{
 	margin-bottom: 20px;
 }
 
-.header-description__button button{}
-
 .header-description__btn {
 	font-size: 24px;
 	font-weight: 700;
@@ -132,9 +119,6 @@ body{
 	background-color: rgb(19, 40, 160);
 	border-radius: 5px;
 }
-
-
-.header-description__btn{}
 
 @media (max-width: 1024px){
 	.wrapper{
@@ -238,8 +222,6 @@ body{
 	padding: 70px 0 0 0;
 }
 
-.main-description__container {}
-
 .main-description__title {
 	font-family: 'Archangelsk';
 	font-size: 62px;
@@ -265,17 +247,11 @@ body{
 	justify-content: space-between;
 	margin: 0 0 70px 0;
 }
-.main-description__pictures img{
-	
-}
 
 .main-description__pictures-two img:first-child {
 	margin: 0 0 32px 0;
 
 	
-}
-.main-description__pictures-two img:last-child{
-
 }
 .main-description__img {
 	display: none;
@@ -339,7 +315,6 @@ body{
 	padding: 15px 0 0 0;
 }
 
-.main-promotion__container {}
 
 .main-promotion__head {
 	display: flex;
@@ -627,7 +602,6 @@ body{
 	justify-content: center;
 }
 
-.main-dive__desk {}
 
 .main-dive__desk-title {
 	font-family: 'Archangelsk';
@@ -699,9 +673,6 @@ body{
 	top: -3px;
 	left: 0;
 }
-
-
-.main-dive__button {}
 
 .main-dive__btn {
 	padding: 19px 50px;
@@ -800,8 +771,6 @@ body{
 	color: #FFFFFF;
 }
 
-.main-buy__container {}
-
 .main-buy-block {
 	display: flex;
 }
@@ -822,8 +791,6 @@ body{
 	margin: 0 0 25px 0;
 	
 }
-
-.main-buy__desc-list {}
 
 .main-buy__desc-listTitle {
 	font-size: 24px;
@@ -885,14 +852,6 @@ body{
 	top: -3px;
 	left: 0;
 }
-
-.one-item {}
-
-.two-item {}
-
-.three-item {}
-
-.main-buy__desc-choices {}
 
 .main-buy__desc-choice {
 	font-size: 24px;
@@ -990,10 +949,6 @@ body{
 
 
 /*======footer======*/
-.footer {}
-
-.footer__container {}
-
 .footer-block {
 	display: flex;
 	align-items: center;
@@ -1001,9 +956,6 @@ body{
 	padding: 13px 0;
 }
 
-.footer-block__logos {
-
-}
 .footer-block__logos img:first-child{
 	padding: 0 32px 0 0;
 }
